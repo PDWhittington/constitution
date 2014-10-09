@@ -1,4 +1,4 @@
 constitution
 ============
 
-A conservative manifesto for to write a new constitution for the UK, written in LaTeX
+A conservative manifesto for a new British constitution, written in LaTeX
